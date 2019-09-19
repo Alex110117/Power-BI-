@@ -87,4 +87,5 @@
 
 <br></br>
 
-_Пример реализации данного отчета, представлен в файле [**report**](https://github.com/Alex110117/power_bi/blob/master/report.pdf)_
+#### Пример реализации: 
+* [Отчет по продажам ресторана (ТЗ)](https://github.com/Alex110117/power_bi/blob/master/report.pdf)
