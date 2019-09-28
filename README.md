@@ -3,7 +3,7 @@
 
 ![power-bi-banner](https://user-images.githubusercontent.com/43387913/56744961-1e1ae800-6782-11e9-9b1a-175dd66fba7d.jpg)
 
-#### Примеры реализации: 
+### Примеры реализации: 
 * [Отчет по продажам ресторанов](https://github.com/Alex110117/power_bi/blob/master/report/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B8%20%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%BE%D0%B2.pdf)
 * Другие работы
 
