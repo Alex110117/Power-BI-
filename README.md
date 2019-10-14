@@ -1,7 +1,7 @@
-# Анализ и визуализации данных
+# Data analysis and visualization
 
 
-![power-bi-banner](https://user-images.githubusercontent.com/43387913/56744961-1e1ae800-6782-11e9-9b1a-175dd66fba7d.jpg)
+![56744961tt-1e1ae800-6782-11e9-9b1a-175dd66fba7d](https://user-images.githubusercontent.com/43387913/66768981-9a35f300-eebc-11e9-8239-d17f42b63eb8.png)
 
 ### Примеры реализации отчетов: 
 * Power BI
