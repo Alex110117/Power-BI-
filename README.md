@@ -13,4 +13,4 @@
  * [**Анализ рынка приложений Android**](https://public.tableau.com/profile/aleksandr7340#!/vizhome/L6/AppAnalysis)
 <br></br>
 
-_All data is generated, for examples._
+_(All data is generated, for examples.)_
